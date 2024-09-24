@@ -34,29 +34,27 @@ Technologies Used
 
 Installation
 
-    Clone this repository:
+Clone this repository:
 
-    bash
+git clone https://github.com/DavidBars20/tankgame
 
-git clone 
 
 Navigate to the project directory:
 
-bash
-
 cd tank-battle-game
+
 
 Install the required libraries:
 
-bash
-
 pip install pygame
+
 
 Run the game:
 
-bash
+python main.py
 
-    python main.py
+
+
 
 Version History
 Version 1.0
@@ -122,25 +120,23 @@ Instalação
 
     bash
 
-git clone 
+git clone https://github.com/DavidBars20/tankgame
+
 
 Navegue até o diretório do projeto:
 
-bash
-
 cd tank-battle-game
 
-Instale as bibliotecas necessárias:
 
-bash
+Instale as bibliotecas necessárias:
 
 pip install pygame
 
 Execute o jogo:
 
-bash
-
     python main.py
+
+
 
 Histórico de Versões
 Versão 1.0
@@ -163,6 +159,6 @@ Versão 1.2
     Funcionalidade para permitir múltiplos tanques inimigos na tela adicionada.
     Condição de fim de jogo implementada quando o tanque do jogador é atingido.
 
-Contribuindo
+Contribuições:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
