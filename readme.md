@@ -38,25 +38,21 @@ Installation
 
     bash
 
-git clone https://github.com/username/tank-battle-game.git
+git clone https://github.com/DavidBars20/tankgame/
 
 Navigate to the project directory:
 
-bash
-
 cd tank-battle-game
+
 
 Install the required libraries:
 
-bash
-
 pip install pygame
 
+
 Run the game:
+python main.py
 
-bash
-
-    python main.py
 
 Version History
 Version 1.0
@@ -118,29 +114,20 @@ Tecnologias Utilizadas
 
 Instalação
 
-    Clone este repositório:
+Clone este repositório:
 
-    bash
-
-git clone https://github.com/username/tank-battle-game.git
+git clone https://github.com/DavidBars20/tankgame
 
 Navegue até o diretório do projeto:
-
-bash
-
 cd tank-battle-game
 
 Instale as bibliotecas necessárias:
-
-bash
-
 pip install pygame
 
 Execute o jogo:
+python main.py
 
-bash
 
-    python main.py
 
 Histórico de Versões
 Versão 1.0
